@@ -4,7 +4,7 @@
 #include <Arduino.h>
 #include <TinyGsmClient.h>
 
-#warning "This library only support SIM800 series"
+#warning "This library only supports SIM800 series!"
 
 enum class SmsDeleteMode
 {
