@@ -1,5 +1,7 @@
 # ExtendedTinyGSM Library
 
+**⚠ This library only supports SIM800 series!**
+
 The **ExtendedTinyGSM** library extends the functionality of the TinyGSM library to provide additional SMS management capabilities for SIM800-based GSM modules.
 
 This library allows users to interact with GSM modules and manage SMS messages more effectively, including SMS deletion, retrieval, and formatting.
